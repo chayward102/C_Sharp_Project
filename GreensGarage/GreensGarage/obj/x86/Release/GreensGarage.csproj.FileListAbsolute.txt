@@ -1,0 +1,17 @@
+C:\Temp\GreensGarage\GreensGarage\bin\Release\GreensGarage.exe.config
+C:\Temp\GreensGarage\GreensGarage\bin\Release\GreensGarage.exe
+C:\Temp\GreensGarage\GreensGarage\bin\Release\GreensGarage.pdb
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.DataModule.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.EquipmentForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.FrmPrintPreview.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.InvoiceForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.MainForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.OwnerForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.ServiceForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.ServiceTypeEquipmentForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.ServiceTypeForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.VehicleForm.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.Properties.Resources.resources
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.csproj.GenerateResource.Cache
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.exe
+C:\Temp\GreensGarage\GreensGarage\obj\x86\Release\GreensGarage.pdb
